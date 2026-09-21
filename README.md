@@ -9,7 +9,7 @@
 
 <p align="center"><strong>NLP/AI Researcher · Research Software Developer · Responsible AI Practitioner</strong></p>
 
-<p align="center"><a href="https://www.lancaster.ac.uk/">Lancaster University</a> · <a href="https://github.com/UCREL">UCREL</a> · <a href="https://github.com/IgnatiusEzeani">GitHub</a></p>
+<p align="center"><a href="https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani">Lancaster University</a> · <a href="https://github.com/UCREL">UCREL</a> · <a href="https://github.com/IgnatiusEzeani">GitHub</a></p>
 
 ---
 
