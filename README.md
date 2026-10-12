@@ -1,7 +1,7 @@
 # Ignatius Ezeani
 
 <p align="center">
-  <a href="https://github.com/IgnatiusEzeani"><img src="https://komarev.com/ghpvc/?username=IgnatiusEzeani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <!-- <a href="https://github.com/IgnatiusEzeani"><img src="https://komarev.com/ghpvc/?username=IgnatiusEzeani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></a> -->
   <a href="https://orcid.org/0000-0001-8286-9997"><img src="https://img.shields.io/badge/ORCID-0000--0001--8286--9997-a6ce39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://scholar.google.com/citations?user=flSvPiMAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://ignatiusezeani.github.io/"><img src="https://img.shields.io/badge/Website-ignatiusezeani.github.io-222222?style=flat&logo=github-pages&logoColor=white" alt="Personal website" /></a>
