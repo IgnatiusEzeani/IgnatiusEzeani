@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/IgnatiusEzeani"><img src="https://komarev.com/ghpvc/?username=IgnatiusEzeani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/IgnatiusEzeani"><img src="https://visitor-badge.glitch.me/badge?page_id=IgnatiusEzeani.IgnatiusEzeani" alt="Profile views" /></a>
   <a href="https://orcid.org/0000-0001-8286-9997"><img src="https://img.shields.io/badge/ORCID-0000--0001--8286--9997-a6ce39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://scholar.google.com/citations?user=flSvPiMAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://ignatiusezeani.github.io/"><img src="https://img.shields.io/badge/Website-ignatiusezeani.github.io-222222?style=flat&logo=github-pages&logoColor=white" alt="Personal website" /></a>
@@ -88,7 +88,7 @@ Resources for the UCREL Summer School covering Natural Language Processing, larg
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatiusEzeani&layout=compact&hide_progress=true&langs_count=8" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatiusEzeani&layout=compact&langs_count=8" alt="Most used languages" />
 </p>
 
 ## Current Research Focus
