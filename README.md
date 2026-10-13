@@ -9,7 +9,7 @@
 
 <p align="center"><strong>NLP/AI Researcher · Research Software Developer · Responsible AI Practitioner</strong></p>
 
-<p align="center"><a href="https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani">Lancaster University</a> · <a href="https://github.com/UCREL">UCREL</a> · <a href="https://github.com/IgnatiusEzeani">GitHub</a></p>
+<p align="center"><a href="https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani">Lancaster University</a> · <a href="https://github.com/UCREL">UCREL</a> · <a href="https://github.com/">Research Software</a></p>
 
 ---
 
@@ -17,7 +17,7 @@
 
 I am an **NLP/AI researcher and research software developer** working at the intersection of Natural Language Processing, responsible and explainable AI, digital humanities, and computational social science.
 
-My work focuses on developing practical, reproducible, and accessible tools for analysing language, narratives, speech, and knowledge-rich datasets. I am particularly interested in **low-resource and African language technologies**, inclusive AI, and community-centred approaches to research and innovation.
+My work focuses on developing practical, reproducible, and accessible tools for analysing language, narratives, speech, and knowledge-rich datasets. I am particularly interested in **low-resource languages, computational humanities, and trustworthy AI**.
 
 I currently work as a **Research Fellow at Lancaster University**, contributing to research involving NLP, large language models, responsible AI, explainability, and digital humanities.
 
@@ -46,17 +46,17 @@ I currently work as a **Research Fellow at Lancaster University**, contributing 
 
 ### Programming and Data
 
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /></p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /></p>
 
 ### NLP, Machine Learning, and AI
 
-<p><img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat" alt="spaCy" /> <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=flat" alt="LLM applications" /> <img src="https://img.shields.io/badge/RAG%20Workflows-7057FF?style=flat" alt="RAG workflows" /></p>
+<p><img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat" alt="spaCy" /> <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=flat&logo=huggingface&logoColor=black" alt="Transformers" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/LLM-5A67D8?style=flat" alt="Large language models" /></p>
 
 ### Visualisation and Engineering
 
-<p><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Folium-77B829?style=flat" alt="Folium" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/XML%2FTEI-8A2BE2?style=flat" alt="XML and TEI" /></p>
+<p><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" /></p>
 
-I place particular emphasis on reproducible computational research, dataset curation, corpus annotation, transparent evaluation, usable research software, accessible interfaces, and responsible handling of culturally and socially sensitive data.
+I place particular emphasis on reproducible computational research, dataset curation, corpus annotation, transparent evaluation, usable research software, accessible interfaces, and responsible handling of human-centred data.
 
 ## Selected Research Projects
 
@@ -83,15 +83,15 @@ Resources for the UCREL Summer School covering Natural Language Processing, larg
 
 ## Academic and Professional Profiles
 
-<p><a href="https://scholar.google.com/citations?user=flSvPiMAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a> <a href="https://orcid.org/0000-0001-8286-9997"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a> <a href="https://www.researchgate.net/profile/Ignatius-Ezeani-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a> <a href="https://www.linkedin.com/in/ignatiusezeani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
+<p><a href="https://scholar.google.com/citations?user=flSvPiMAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a> <a href="https://orcid.org/0000-0001-8286-9997"><img src="https://img.shields.io/badge/ORCID-0000--0001--8286--9997-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a></p>
 
 ## GitHub Activity
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IgnatiusEzeani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" height="165" alt="GitHub statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnatiusEzeani&layout=compact&hide_border=true&langs_count=8&theme=default" height="165" alt="Top languages" /></p>
+<p align="center"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile badge" /></p>
 
 ## Contact
 
-I welcome opportunities for interdisciplinary research collaboration, research software development, responsible and inclusive AI projects, workshops, tutorials, academic engagement, mentorship, and knowledge exchange.
+I welcome opportunities for interdisciplinary research collaboration, research software development, responsible and inclusive AI projects, workshops, tutorials, academic engagement, mentorship, and public engagement around language, data, and society.
 
 - 🌐 Website: [ignatiusezeani.github.io](https://ignatiusezeani.github.io/)
 - 💼 LinkedIn: [Ignatius Ezeani](https://www.linkedin.com/in/ignatiusezeani)
